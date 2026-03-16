@@ -1,6 +1,6 @@
 # Olá, eu sou a Larissa Beatriz 👩‍💻🤖
 
-Estudante do 3º semestre de Ciência da Computação e **Estagiária de SRE**. Foco em construir infraestruturas resilientes, pipelines de observabilidade e explorar arquiteturas de baixo nível.
+Estudante do 3º semestre de Ciência da Computação e **SRE**. Foco em construir infraestruturas resilientes, pipelines de observabilidade e explorar arquiteturas de baixo nível
 
 ### ⚙️ Stack e Ferramentas
 
@@ -16,15 +16,15 @@ Estudante do 3º semestre de Ciência da Computação e **Estagiária de SRE**. 
 
 ---
 
-### 🔭 O que estou construindo e estudando no momento
-- 📊 Desenvolvendo stack de observabilidade para análise de logs em tempo real (Zeek, Kafka, Vector, ClickHouse, Grafana).
-- 🧠 Aprofundando estudos em gerenciamento de memória, paralelismo e concorrência.
-- ⚛️ Pesquisando algoritmos no Brazil Quantum Camp.
-- 🤝 Colaborando em projetos de equipe com versionamento rigoroso (TaskNote Academy).
+### O que estou construindo e estudando no momento
+- Desenvolvendo stack de observabilidade para análise de logs em tempo real (Zeek, Kafka, Vector, ClickHouse, Grafana)
+- Aprofundando estudos em gerenciamento de memória, paralelismo e concorrência
+- Pesquisando algoritmos no Brazil Quantum Camp
+- Colaborando em projetos de equipe com versionamento rigoroso (TaskNote Academy)
 
 ### 🎯 Objetivos para 2026
-- Expandir networking focado em SRE e infraestrutura no Web Summit Rio.
-- Classificação para a trilha Quantum Immersive em Recife.
+- Expandir networking focado em SRE e infraestrutura no Web Summit Rio
+- Classificação para a trilha Quantum Immersive em Recife
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
