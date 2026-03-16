@@ -1,7 +1,7 @@
 # Olá, eu sou a Larissa Beatriz 👩‍💻🤖
 
 <div align="left">
-  <p>Estudante do 3º semestre de Ciência da Computação e <b>Estagiária de SRE</b> na Blu. Foco em construir infraestruturas resilientes, pipelines de observabilidade e explorar arquiteturas de baixo nível.</p>
+  <p>Estudante do 3º semestre de Ciência da Computação e <b>Estagiária de SRE</b> Foco em construir infraestruturas resilientes, pipelines de observabilidade e explorar arquiteturas de baixo nível.</p>
 </div>
 
 ### ⚙️ Stack e Ferramentas
