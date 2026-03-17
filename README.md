@@ -1,6 +1,6 @@
 # Olá, eu sou a Cami
 
-Estudante de Ciência da Computação e **SRE**. Foco em construir infraestruturas resilientes, pipelines de observabilidade e explorar arquiteturas de baixo nível. Também me aprofundo em estudos de Computação Quântica, integrando a trilha intermediária da Quantum Tech Brazil com foco em otimização
+Estudante de Ciência da Computação e **SRE**. Apaixonada por Golang, tenho foco em construir infraestruturas resilientes, pipelines de observabilidade e explorar arquiteturas de baixo nível. Também me aprofundo em estudos de Computação Quântica, integrando a trilha intermediária da Quantum Tech Brazil com foco em otimização
 
 ### Stack e Ferramentas
 
