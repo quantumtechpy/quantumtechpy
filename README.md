@@ -27,5 +27,5 @@ Estudante de Ciência da Computação e **SRE**. Apaixonada por Golang, tenho fo
 - Classificação para a trilha Quantum Immersive em Recife
 
 ### Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLOQUE_SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
