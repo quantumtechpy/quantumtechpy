@@ -23,7 +23,7 @@ Estudante de Ciência da Computação e **SRE**. Apaixonada por Golang, tenho fo
 - Colaborando em projetos de equipe com versionamento rigoroso (TaskNote Academy)
 
 ### Objetivos para 2026
-- Expandir networking focado em SRE e infraestrutura no Web Summit Rio
+- Expandir networking focado em SRE e infraestrutura
 - Classificação para a trilha Quantum Immersive em Recife
 
 ### Como me encontrar
