@@ -20,7 +20,7 @@ Estudante de Ciência da Computação e **SRE**. Apaixonada por Golang, tenho fo
 - Desenvolvendo stack de observabilidade para análise de logs em tempo real (Zeek, Kafka, Vector, ClickHouse, Grafana)
 - Aprofundando estudos em gerenciamento de memória, paralelismo e concorrência
 - Pesquisando algoritmos no Brazil Quantum Camp
-- Colaborando em projetos de equipe com versionamento rigoroso (TaskNote Academy)
+- Colaborando em projetos de equipe com versionamento rigoroso (TaskNot)
 
 ### Objetivos para 2026
 - Expandir networking focado em SRE e infraestrutura
